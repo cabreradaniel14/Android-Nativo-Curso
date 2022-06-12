@@ -1,0 +1,61 @@
+<resources>
+    <!--name="es el identificable id">valor</string> es lo que se muestra en pantalla -->
+    <string name="app_name">Creado por: Daniel Cabrera</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!--MENU ADMIN-->
+
+    <string name="InicioAdmin">Inicio</string>
+    <string name="perfilAdmin">Perfil</string>
+    <string name="registrarAdmin">Registro</string>
+    <string name="listarAdmin">Lista de administradores</string>
+    <string name="salir">Cerrar Sesión</string>
+
+    <!--Menu Cliente-->
+    <string name="Opcionestxt">Opciones</string>
+    <string name="IncioCliente">Inicio</string>
+
+    <string name="MasOpcionestxt">Más Opciones</string>
+    <string name="Acerde">Acerca de</string>
+    <string name="Compartir">Compartir</string>
+
+    <string name="Acceder">Acceder</string>
+
+    <!---REGISTRO DE ADMINISTRADORES-->
+    <string name="Registrotxt">Registro de administradores</string>
+    <string name="Correo">Correo Electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Nombres">Nombres completos</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Edad">Edad</string>
+    <string name="FechaRegistro">Fecha de Registro</string>
+    <string name="Registrar">Registrar</string>
+
+    <!--Login Admin-->
+    <string name="LoginTXT">Login de Administradores</string>
+    <string name="Ingresar">Ingresar</string>
+
+    <string name="eligecategoriatxt">Elige una Categoría</string>
+    <string name="peliculas">PELICULAS</string>
+    <string name="Series">SERIES</string>
+    <string name="Musica">MUSICA</string>
+    <string name="Videojuegos">VIDEOJUEGOS</string>
+
+    //Menu parte superior derecha
+    <string name="Agregar">Agregar</string>
+    <string name="Vista">Vista</string>
+
+    //Peliculas
+    <string name="NombretxtPeliculas">Nombre de peliculas</string>
+    <string name="NombrePeliculas">Escriba nombre aqui</string>
+    <string name="VistaPelicula">0</string>
+    <string name="publicarPelicula">Publicar peliculas</string>
+
+    <string name="NombreImagenPeliculas">--</string>
+    <string name="vistaPeliculaItem">--</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

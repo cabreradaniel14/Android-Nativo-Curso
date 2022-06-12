@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093771990315",
+    "project_id": "curso-android-6b0ce",
+    "storage_bucket": "curso-android-6b0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093771990315:android:1b605761eac1a4c874a16e",
+        "android_client_info": {
+          "package_name": "com.example.app_curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093771990315-hfca2baf7qmhe58j6p6ldcu8oj14hlsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_curso",
+            "certificate_hash": "4ddd9d2df62ea2542839e9731d6b093a9c0facce"
+          }
+        },
+        {
+          "client_id": "1093771990315-4v8qe5b50v9u93vge3oi2s95mmljelsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlS9iZbpZSpu73sK7lhj_AEZnvtNGVXhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093771990315-4v8qe5b50v9u93vge3oi2s95mmljelsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
